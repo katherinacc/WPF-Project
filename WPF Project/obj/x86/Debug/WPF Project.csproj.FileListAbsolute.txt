@@ -1,0 +1,22 @@
+E:\katherinacc\Desktop\WPF Project\WPF Project\obj\x86\Debug\MainWindow.baml
+E:\katherinacc\Desktop\WPF Project\WPF Project\obj\x86\Debug\MainWindow.g.cs
+E:\katherinacc\Desktop\WPF Project\WPF Project\obj\x86\Debug\App.g.cs
+E:\katherinacc\Desktop\WPF Project\WPF Project\obj\x86\Debug\WPF Project_MarkupCompile.cache
+E:\katherinacc\Desktop\WPF Project\WPF Project\obj\x86\Debug\WPF Project.g.resources
+E:\katherinacc\Desktop\WPF Project\WPF Project\obj\x86\Debug\WPF_Project.Properties.Resources.resources
+E:\katherinacc\Desktop\WPF Project\WPF Project\obj\x86\Debug\WPF Project.csproj.GenerateResource.Cache
+E:\katherinacc\Desktop\WPF Project\WPF Project\bin\Debug\WPF Project.exe
+E:\katherinacc\Desktop\WPF Project\WPF Project\bin\Debug\WPF Project.pdb
+E:\katherinacc\Desktop\WPF Project\WPF Project\obj\x86\Debug\WPF Project.exe
+E:\katherinacc\Desktop\WPF Project\WPF Project\obj\x86\Debug\WPF Project.pdb
+E:\katherinacc\WPF Project\WPF Project\obj\x86\Debug\WPF Project.exe
+E:\katherinacc\WPF Project\WPF Project\obj\x86\Debug\WPF Project.pdb
+E:\katherinacc\WPF Project\WPF Project\bin\Debug\WPF Project.exe
+E:\katherinacc\WPF Project\WPF Project\bin\Debug\WPF Project.pdb
+E:\katherinacc\WPF Project\WPF Project\obj\x86\Debug\MainWindow.baml
+E:\katherinacc\WPF Project\WPF Project\obj\x86\Debug\MainWindow.g.cs
+E:\katherinacc\WPF Project\WPF Project\obj\x86\Debug\App.g.cs
+E:\katherinacc\WPF Project\WPF Project\obj\x86\Debug\WPF Project_MarkupCompile.cache
+E:\katherinacc\WPF Project\WPF Project\obj\x86\Debug\WPF Project.g.resources
+E:\katherinacc\WPF Project\WPF Project\obj\x86\Debug\WPF_Project.Properties.Resources.resources
+E:\katherinacc\WPF Project\WPF Project\obj\x86\Debug\WPF Project.csproj.GenerateResource.Cache
